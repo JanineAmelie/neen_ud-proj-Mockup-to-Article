@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+
+* What new skills have you learned?
+  
+--The skills that I learned, aside from formatting plain-text to HTML text, was to learn how to actually 'google' it may sounds absurd,
+but if you really know how to use google search operators, it'll really speed up you google-fu.
+
+* What has been easy?
+ 
+--The project was quite easy as I had previous knowledge of HTML.
+
+* What has been difficult?
+
+-- What I always found difficult is reading the Documentation. For some reason, I find the wording of 'official' documentation over at MDN and W3 Schools to be very stiff and 'formal'. Other sources such as blogs, what-not usually have more beginner friendly wording, and use a colloqual style of writing. OR  Maybe I feel this way because English is not my first language.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+  
+--The problem solving strategies I used was to make use of the wide variety of resources available me all over the net,
+There are hundreds of 'learn HTML' resources out there. But the ones that I kept coming back to were MDN and W3 Schools. I 
+already had taken a basic HTML course on CodeAcademy so it was all a matter of looking up the tags that weren't familiar to me. 
